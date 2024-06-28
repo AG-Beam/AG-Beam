@@ -1,24 +1,24 @@
-# BlackStone Mafia
+ #   ＢｌａｃｋＳｔｏｎｅ Ｍａｆｉａ
 
 Founded on May 10, 2024, by AG_Beam and 999distracted, also known as Haused.<br />
  We are not just a clan; we are small group that takes on any clan and somehow always wins
 
 ## About Us
 
-🌟 **Leadership**
+🌟 **Ｌｅａｄｅｒｓｈｉｐ**
 
 Led by AG_Beam, we carry forward to create a legacy that won't be forgotten, blazing  <br /> trails through the chaos of 8b8t and leaving our mark on its untamed lands and controlled territories.
 
-⚔️ **Clan Challenges**
+⚔️ **Ｃｌａｎ Ｃｈａｌｌｅｎｇｅｓ**
 
 We fear no clan. We stand ready to face any challenger, testing our skills, strategy & strength against the best the realm has to offer. <br /> 
 We are determined to prove that we are the true champions of 8b8t.
 
-🔍 **Base Hunting**
+🔍 **Ｂａｓｅ Ｈｕｎｔｉｎｇ**
 
 Our skilled trackers and explorers roam the wilds, hunting down hidden bases and unearthing the secrets of this enigmatic realm.
 
-🏰 **Building**
+🏰 **Ｂｕｉｌｄｉｎｇ**
 
 From grand citadels to intricate redstone marvels, our builders craft works of art that defy imagination, showcasing the limitless possibilities of creativity in 8b8t.
 
