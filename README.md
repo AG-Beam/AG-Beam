@@ -1,6 +1,8 @@
  #   ＢｌａｃｋＳｔｏｎｅ Ｍａｆｉａ
 
-Founded on May 10, 2024, by AG_Beam and 999distracted, also known as Haused.<br />
+Founded on May 10, 2024, 
+Lead by AG_Beam <br />
+Second in command SmurfUhDurf<br />
  We are not just a clan; we are small group that takes on any clan and somehow always wins
 
 ## About Us
