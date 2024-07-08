@@ -29,6 +29,6 @@ From grand citadels to intricate redstone marvels, our builders craft works of a
 If you seek adventure, camaraderie, and the thrill of conquest, then BlackStone Mafia welcomes you with open arms. <br />
 Join our ranks, and together, we shall carve our legend into the annals of 8b8t.<br />
 
-🔗 **Discord Invite Link:** [Join Now!](https://discord.gg/4XMTTmNfqY)
+🔗 **Discord Invite Link:** [Join Now!](https://discord.gg/z4DnPesUnk)
 
 Embrace the chaos. Forge your destiny. Welcome to BlackStone Mafia.
