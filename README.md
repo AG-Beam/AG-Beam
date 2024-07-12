@@ -8,8 +8,8 @@ connecting with mullitple games over the years and building 18 FPS shooters. <br
 ---------------------------------------------------------------------------------------------------------------------------------<br />
 I have a passion for creating immersive and engaging gaming experiences, both as a developer and a community manager.<br />
 From mass giveaways on steam to Discord events i have done it all, from assisting in support to over 25,000 people around the world <br />
-to helping host Gaming events in my local area's, games including call of duty's and Counter Strike and other games helping connect others.
----------------------------------------------------------------------------------------------------------------------------------<br />
+to helping host Gaming events in my local area's, games including call of duty's and Counter Strike and other games helping connect others.<br />
+---------------------------------------------------------------------------------------------------------------------------------------------------<br />
 ## Quick link to my repositories
 - [Anti-Server Squad Protection](https://github.com/AG-Beam/anti-server-squad-protection)
 - [My Personal Minecraft Client](https://github.com/AG-Beam/AG-Beams-Client)
