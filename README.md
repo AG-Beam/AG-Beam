@@ -1,7 +1,7 @@
 ---------------------------------------------------------------------------------------------------------------------------------<br />
-$${\color{red} ✯✯✯✯✯✯\space AG-Beam's \space GitHub \space ✯✯✯✯✯✯  }$$
+             $${\color{red} ✯✯✯✯✯✯\space AG-Beam's \space GitHub \space ✯✯✯✯✯✯  }$$ <br />
 ---------------------------------------------------------------------------------------------------------------------------------<br />
-$${\color{red} ✯✯✯✯✯✯\space ABIT \space ABOUT \space ME \space ✯✯✯✯✯✯  }$$
+            $${\color{red} ✯✯✯✯✯✯\space ABIT \space ABOUT \space ME \space ✯✯✯✯✯✯  }$$ <br />
 ---------------------------------------------------------------------------------------------------------------------------------<br />
 I am a dedicated game developer with nearly 15 years of experience in the gaming industry <br /> 
 connecting with mullitple games over the years and building 18 FPS shooters. <br />
